@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ScrPush.exe" version="0.0.1.0" publicKeyToken="4c89af3a867dca4e" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Resources\Trico.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ScrPush" version="0.0.1.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="ScrPush.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Задание узла requestedExecutionLevel отключит виртуализацию файла и реестра.
+            Если виртуализацию файла и реестра нужно использовать для обратной 
+            совместимости, удалите узел requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ScrPush.exe" size="678400">
+      <assemblyIdentity name="ScrPush" version="0.0.1.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>M5ILyk3Q3Esw7lEMg5wVqLif3ZY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resources\Trico.ico" size="161862">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>qF5GfEobGnVldM8yqmerVI+LoU4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ScrPush.exe.config" size="1021">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hYiNp32WrZB8Rb67YYNufxsP4Yo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Список всех версий Windows, с которыми это приложение предназначено работать. Windows автоматически выберет наиболее совместимую среду.-->
+      <!-- Если приложение предназначено для работы с Windows 7, раскомментируйте следующий узел supportedOS-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Core-i7\Randomazer" issuerKeyHash="fa5aa8b394a260ce26dbb9db784bd104b9b3aba9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>q+rmAcZC9bI1JQeJQAKjykLh7UQ=</DigestValue></Reference></SignedInfo><SignatureValue>eVG2WDAKyMLmtBJ0WyHM5m5LVhPBtwnD7OZiGvDoSJsXX7hSgAAi+VegC3aNcXG7vH17sHjKIlVqEu2mk8bzIRbYL03rOv3F3fIqdQ6UfZThzacy0wFj5L+rEU/de49/1NQOrheE6jJXv+CPdaixo+S43Cf/ySKukKr0Y2EzUV0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>y3tkMCTW7yg4pnhujQMLsksP8ZI9eJblyAiaraJVndaONJ/NCqNRmBvIrvKYH1AMLxeuv9qLsxNovxEWUUcgbzLLaV3a8lc8vGWFQv2q9c8Z7UM3J7GS3O13mLXs/kIMVdnUJ4LinhXR45T8J+UHuDiKEqbdRZdPWsIpXUvcHyc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="44ede142caa3024089072535b2f542c601e6eaab" Description="" Url=""><as:assemblyIdentity name="ScrPush.exe" version="0.0.1.0" publicKeyToken="4c89af3a867dca4e" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Core-i7\Randomazer</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>vHpjQdrqRHrKjCPbv+URS/puYxs=</DigestValue></Reference></SignedInfo><SignatureValue>wUNRymeBymhklbmeyCdeDi1PUyghvMn1z8VlTaBTwqvdSzUhdDz6CalZS+5gSObctlLwk1tMG0hS9dMQFKy2UvB7Gf94FyZ8mKMfMe/yZU6MyLEfiurBLtdplkSpXNzNu/lIrufVgYNIPO+kuJkKbJ5Rw/Q9y4cvA7riuBnV4rA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>y3tkMCTW7yg4pnhujQMLsksP8ZI9eJblyAiaraJVndaONJ/NCqNRmBvIrvKYH1AMLxeuv9qLsxNovxEWUUcgbzLLaV3a8lc8vGWFQv2q9c8Z7UM3J7GS3O13mLXs/kIMVdnUJ4LinhXR45T8J+UHuDiKEqbdRZdPWsIpXUvcHyc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQcjecWDODzJVMN2z07yVdkTANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQAQwBvAHIAZQAtAGkANwBcAFIAYQBuAGQAbwBtAGEAegBlAHIwHhcNMTMwODAyMTMxMjAyWhcNMTQwODAyMTkxMjAyWjAvMS0wKwYDVQQDHiQAQwBvAHIAZQAtAGkANwBcAFIAYQBuAGQAbwBtAGEAegBlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMt7ZDAk1u8oOKZ4bo0DC7JLD/GSPXiW5cgImq2iVZ3WjjSfzQqjUZgbyK7ymB9QDC8Xrr/ai7MTaL8RFlFHIG8yy2ld2vJXPLxlhUL9qvXPGe1DNyexktztd5i17P5CDFXZ1CeC4p4V0eOU/CflB7g4ihKm3UWXT1rCKV1L3B8nAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAL4vhj9PTM8yLJ2sHjwkVNQmhQdEnWQNnjE4udBg0eCBEkhR4MhYBElZgnrRlLYlImiudswJwZkuWtfRm+uBqheEGWQ9bJvTUGVOgoGwSu6unNkDNpMhYVkKoOgjDC55aZ+h6/WHX6jfB/p49LvE+1LT9BSA3jVG28U/arCk1/Go=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

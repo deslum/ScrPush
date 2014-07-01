@@ -1,0 +1,34 @@
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\obj\x86\Debug\MainWindow.baml
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\obj\x86\Debug\MainWindow.g.cs
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\obj\x86\Debug\trayicon_MarkupCompile.cache
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\bin\Debug\trayicon.exe
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\bin\Debug\trayicon.pdb
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\obj\x86\Debug\App.baml
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\obj\x86\Debug\App.g.cs
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\obj\x86\Debug\trayicon.g.resources
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\obj\x86\Debug\trayicon.Properties.Resources.resources
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\obj\x86\Debug\trayicon.csproj.GenerateResource.Cache
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\obj\x86\Debug\trayicon.exe
+c:\users\randomazer\documents\visual studio 2010\Projects\trayicon\trayicon\obj\x86\Debug\trayicon.pdb
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\trayicon.exe
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\trayicon.pdb
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\bin\Debug\trayicon.exe
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\bin\Debug\trayicon.pdb
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\App.baml
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\trayicon_MarkupCompile.cache
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\trayicon.g.resources
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\trayicon.Properties.Resources.resources
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\Authorization.baml
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\Authorization.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\Settings.baml
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\obj\x86\Debug\Settings.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\trayicon\trayicon\bin\Debug\trayicon.exe.config
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\bin\Debug\trayicon.exe.config
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\trayicon.exe
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\trayicon.pdb

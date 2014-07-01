@@ -1,0 +1,96 @@
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\bin\Debug\trayicon.exe.config
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\bin\Debug\trayicon.exe
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\bin\Debug\trayicon.pdb
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\Authorization.baml
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\Settings.baml
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\App.baml
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\Authorization.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\Settings.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\trayicon_MarkupCompile.cache
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\trayicon.g.resources
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\trayicon.Properties.Resources.resources
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\trayicon.exe
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\trayicon\obj\x86\Debug\trayicon.pdb
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\bin\Debug\ScrPush.exe.config
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\bin\Debug\ScrPush.exe
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\bin\Debug\ScrPush.pdb
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\Authorization.baml
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\Settings.baml
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\App.baml
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\Authorization.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\Settings.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\ScrPush_MarkupCompile.cache
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\ScrPush.g.resources
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\ScrPush.Properties.Resources.resources
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\ScrPush.exe
+C:\Documents and Settings\Юрий\Рабочий стол\Tray\ScrPush\obj\x86\Debug\ScrPush.pdb
+C:\Users\Randomazer\Desktop\Tray\ScrPush\bin\Debug\ScrPush.exe.config
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\ScrPush.exe
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\ScrPush.pdb
+C:\Users\Randomazer\Desktop\Tray\ScrPush\bin\Debug\ScrPush.exe
+C:\Users\Randomazer\Desktop\Tray\ScrPush\bin\Debug\ScrPush.pdb
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\Authorization.baml
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\MainWindow.baml
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\Settings.baml
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\App.baml
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\Authorization.g.cs
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\Settings.g.cs
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\App.g.cs
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\ScrPush_MarkupCompile.cache
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\ScrPush.g.resources
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\ScrPush.Properties.Resources.resources
+C:\Users\Randomazer\Desktop\Tray\ScrPush\obj\x86\Debug\ScrPush.csproj.GenerateResource.Cache
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\Authorization.baml
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\Settings.baml
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\App.baml
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\Authorization.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\Settings.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\ScrPush_MarkupCompile.cache
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\ScrPush.g.resources
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\ScrPush.Properties.Resources.resources
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\bin\Debug\ScrPush.exe
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\bin\Debug\ScrPush.pdb
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\ScrPush.exe
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\obj\x86\Debug\ScrPush.pdb
+C:\Documents and Settings\Юрий\Рабочий стол\August\Tray\ScrPush\bin\Debug\ScrPush.exe.config
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\bin\Debug\ScrPush.exe.config
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\ScrPush.exe
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\ScrPush.pdb
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\bin\Debug\ScrPush.exe
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\bin\Debug\ScrPush.pdb
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\Authorization.baml
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\MainWindow.baml
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\Settings.baml
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\App.baml
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\Authorization.g.cs
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\Settings.g.cs
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\App.g.cs
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\ScrPush_MarkupCompile.cache
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\ScrPush.g.resources
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\ScrPush.Properties.Resources.resources
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\ScrPush.csproj.GenerateResource.Cache
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\bin\Debug\ScrPush.exe.manifest
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\bin\Debug\ScrPush.application
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\ScrPush.TrustInfo.xml
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\ScrPush.exe.manifest
+C:\Users\Randomazer\Desktop\August\Tray\ScrPush\obj\x86\Debug\ScrPush.application

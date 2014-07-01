@@ -1,0 +1,12 @@
+﻿<Window x:Class="ScrPush.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" ResizeMode="NoResize" IsEnabled="True" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Height="255" Width="268">
+    <Grid>
+        <Button Content="Закрыть" Height="34" HorizontalAlignment="Left" Margin="91,170,0,0" Name="button1" VerticalAlignment="Top" Width="68" Click="button1_Click" IsEnabled="True" />
+        <Image Height="64" HorizontalAlignment="Left" Margin="91,12,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="68" Source="/ScrPush;component/Resources/Login.ico" />
+        <Label Content="ScrPush" Height="38" HorizontalAlignment="Left" Margin="91,82,0,0" Name="label1" VerticalAlignment="Top" IsEnabled="False" FontSize="20" Width="81" />
+        <Label Content="Букаткин Юрий Александрович" Height="28" HorizontalAlignment="Left" Margin="44,112,0,0" Name="label2" VerticalAlignment="Top" IsEnabled="False" />
+        <Label Content="admin@deslum.com" Height="28" HorizontalAlignment="Left" Margin="69,136,0,0" Name="label3" VerticalAlignment="Top" />
+    </Grid>
+</Window>
